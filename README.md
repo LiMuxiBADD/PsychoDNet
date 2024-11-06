@@ -1,4 +1,4 @@
-# MentalAId
+# Brief introduction
 ----
 MentalAId is an Artificial Intelligence model assisting in quick automatic screening of broad-spectrum psychosis on basis of 49 hematoloical tests and two demographic variables (sex & age).
 
@@ -9,7 +9,7 @@ MentalAId is an Artificial Intelligence model assisting in quick automatic scree
   * Note that do not change the order of the indicators, as they are organized in a fixed way
 
 
-MentalAId
+Use MentalAId
 ----
 * To utilize MentalAId, follow the steps:
   1. Run [Data_preprocessing.ipynb](https://github.com/LiMuxiBADD/MentalAId/blob/main/Data_preprocessing.ipynb)
