@@ -11,7 +11,7 @@ MentalAId is an Artificial Intelligence model assisting in quick automatic scree
 
 Graphical Abstract
 ----
-![Fig1](https://github.com/LiMuxiBADD/MentalAId/blob/main/Graphical%20Abstract.png){ width=100% }
+<img src="https://github.com/LiMuxiBADD/MentalAId/blob/main/Graphical%20Abstract.png" width="100%">
 
 Use MentalAId
 ----
