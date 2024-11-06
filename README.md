@@ -9,6 +9,9 @@ MentalAId is an Artificial Intelligence model assisting in quick automatic scree
   * column 'dig' denotes the diagnosis label, 'N' for non-psychosis and 'P' for psychosis (not necessary for model prediction) 
   * Note that do not change the order of the indicators, as they are organized in a fixed way
 
+Graphical Abstract
+----
+![Fig1](https://github.com/LiMuxiBADD/MentalAId/blob/main/Graphical%20Abstract.png)
 
 Use MentalAId
 ----
