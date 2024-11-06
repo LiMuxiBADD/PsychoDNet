@@ -1,4 +1,9 @@
 # MentalAId
+
+Graphical Abstract
+----
+<img src="https://github.com/LiMuxiBADD/MentalAId/blob/main/Graphical%20Abstract.png" width="100%">
+
 Brief Introduction
 ----
 MentalAId is an Artificial Intelligence model assisting in quick automatic screening of broad-spectrum psychosis on basis of 49 hematoloical tests and two demographic variables (sex & age).
@@ -8,10 +13,6 @@ MentalAId is an Artificial Intelligence model assisting in quick automatic scree
   * column 'Sex': 0 denotes Female, while 1 denotes Male
   * column 'dig' denotes the diagnosis label, 'N' for non-psychosis and 'P' for psychosis (not necessary for model prediction) 
   * Note that do not change the order of the indicators, as they are organized in a fixed way
-
-Graphical Abstract
-----
-<img src="https://github.com/LiMuxiBADD/MentalAId/blob/main/Graphical%20Abstract.png" width="100%">
 
 Use MentalAId
 ----
