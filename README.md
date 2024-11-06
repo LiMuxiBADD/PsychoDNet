@@ -1,4 +1,5 @@
-# Brief introduction
+# MentalAId
+Brief Introduction
 ----
 MentalAId is an Artificial Intelligence model assisting in quick automatic screening of broad-spectrum psychosis on basis of 49 hematoloical tests and two demographic variables (sex & age).
 
